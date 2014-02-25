@@ -1,0 +1,8 @@
+ML
+
+supervised learning
+regression - continuous output - project sales over next 3 months
+categorization - discrete output - malignant or benign tumor
+
+unsupervised learning
+clustering - dump huge data set of genes on a bunch of people - group them for me.
