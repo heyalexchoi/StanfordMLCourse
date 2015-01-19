@@ -6,3 +6,20 @@ categorization - discrete output - malignant or benign tumor
 
 unsupervised learning
 clustering - dump huge data set of genes on a bunch of people - group them for me.
+
+Cost Function
+Hypothesis = param0 + param1(x)
+Generate hypothesis function trying different params
+
+Find parameters to make hypothesis function look more like the training data's results.
+
+Objective function for linear regression:
+Find parameters to "minimize" sum of squares of difference between hypothesis result h(x) and training data y.
+
+cost function = squared error cost function
+
+(1/2) * m * summation(1, m, function(i){ (hx(i) - y(i)) ** 2 })
+
+most commonly used for regression problems
+
+
